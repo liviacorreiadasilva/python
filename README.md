@@ -10,3 +10,8 @@ O objetivo é criar uma lista com as cidades da região de Paraná e santa catar
 
 - Busca Gulosa 2.0 :
 Com base no objetivo da Busca Gulosa, implementei no sistema um  prompt de comando, no qual o usuario pode digitar o local dele atual e local de destino, em que o objetivo do sistema é mostrar para o usuario a distancia entre as conexões dos grafos.
+
+- Busca Estrela  :
+A Busca estrela ou Busca A*(A-Star) é um algoritimo de busca, usado para encontrar um caminho mais curto entre o local atual no grafo até o local de destino.
+No  código, o objetivo  é encontrar o caminho mais curto de Porto União até Curitiba (cidade atual até cidade destino), utilizando o algoritmo de busca A* ou Busca Estrela. 
+Durante a execução do algoritmo, as cidades visitadas será impressas na ordem em que são exploradas, e no final é indicado se o objetivo (Curitiba - cidade atual) foi encontrado com sucesso.
