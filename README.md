@@ -9,4 +9,4 @@ O termo Busca Gulosa é uma função que classifica alternativas em algoritmos d
 O objetivo é criar uma lista com as cidades da região de Paraná e santa catarina, em que o sistema mostra o grafo com vertices e arestas  dos locais  representando as conexões entre os grafos.
 
 - Busca Gulosa 2.0 :
-Com base no objetivo da Busca Gulosa, implementei no sistema prompt de comando, no qual o usuario pode digitar o local dele atual e local de destino, em que o objetivo do sistema é mostrar para o usuario a distancia entre as conexões dos grafos.
+Com base no objetivo da Busca Gulosa, implementei no sistema um  prompt de comando, no qual o usuario pode digitar o local dele atual e local de destino, em que o objetivo do sistema é mostrar para o usuario a distancia entre as conexões dos grafos.
